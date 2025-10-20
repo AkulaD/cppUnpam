@@ -37,4 +37,5 @@ int main(){
         cout<<"Operasi yang anda pilih tidak tersedia"<<endl;
         break;
     }
+    return 0;
 }

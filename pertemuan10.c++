@@ -28,4 +28,6 @@ int main(){
         cout << "Maaf, format nilai tidak sesuai!" <<endl;
         break;
     }
+
+    return 0;
 }
